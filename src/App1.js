@@ -11,7 +11,7 @@ function Appt() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         hhhtt Edit <code>src/App.js</code> and save to reload.
+          Edit dfd df d <code>src/App.js</code> and save to reload.
         </p>
         <Foot />
         <Foot/>
